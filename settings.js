@@ -1,4 +1,4 @@
-const fs = require('fs')
+ const fs = require('fs')
 const chalk = require('chalk')
 
 //Api Website\\
@@ -39,34 +39,34 @@ frkey = 'kZgLGZbX'
 apidanz = '92b0a75k6f'
 ckey = 'xPxsaElx'
 global.saweria = "https://saweria.co/xylaa" // saweria donation
-global.groupwea = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" // saweria donation
-global.vcardowner = ['6281338302495', '6285338440313', '6283899515608'] //number
-global.allpay = "081338302495" // nomor pertama / first number donate
-global.allpay2 = "085338440313" // nomor ke dua /second number donate
-global.ownername = "⚘xʏʟᴀᴀ♱" //owner
-global.email = "📧 vynx14u@gmail.com" //email
-global.website = "⚙️ Github : RavensVenix" //github name
+global.groupwea = "https://chat.whatsapp.com/EyYi7h3RoWTEyaX1lvrZK1" // saweria donation
+global.vcardowner = ['6281536907492', '6285765680162 ', '6281396619093'] //number
+global.allpay = "081536907492" // nomor pertama / first number donate
+global.allpay2 = "085765680162" // nomor ke dua /second number donate
+global.ownername = "Dian" //owner
+global.email = "📧 pstar9575@gmail.com" //email
+global.website = "⚙️ Github : Patrickkkkkk" //github name
 global.location = "🌍 Isekai, Taman Hiburan Para Loli, Pemandian Umum Wanita" //location
 global.roblox = "👾 Roblox : @JustRyyXD" //roblox
-global.ig = "👑 Instagram : @ravensvenix" //insta
-global.tg = "💙 Telegram : @vmxone" //telegram
+global.ig = "👑 Instagram : privasi" //insta
+global.tg = "💙 Telegram : privasi" //telegram
 
 //bot bomdy 
-global.groupbot = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
-global.owner = ['6281338302495', '6285338440313', '6283899515608']
-global.ownernomer = "6281338302495" //ur number
-global.ownernomer2 = "6285338440313" // second number
-global.ownernomer3 = "6283899515608" // stfu
-global.ownertag = '6281338302495', '6285338440313', '6283899515608' //ur tag number
-global.botname = '☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜' //ur bot name
+global.groupbot = "https://chat.whatsapp.com/EyYi7h3RoWTEyaX1lvrZK1"
+global.owner = ['6281536907492', '6285765680162', '6281396619093']
+global.ownernomer = "6281536907492" //ur number
+global.ownernomer2 = "6285765680162" // second number
+global.ownernomer3 = "6281396619093" // stfu
+global.ownertag = '6281536907492', '6285765680162', '6281396619093' //ur tag number
+global.botname = '𝓥𝓪𝓵𝓮𝓬𝓽𝓜𝓭𒆜' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //ur website to be displayed
 global.botscript = 'https://github.com/RavensVenix/elainav6' //script link
 global.reactmoji = "🦈" //ur menu react emoji
 global.themeemoji = "🦈" //ur theme emoji
-global.packname = "☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
-global.author = "☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜" //ur sticker watermark author
-global.wm = "☾𝐗𝐲𝐥𝐚𝐚𝐌𝐃𒆜" //ur watermark
+global.packname = "𝓥𝓪𝓵𝓮𝓬𝓽𝓜𝓭𒆜\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
+global.author = "𝓥𝓪𝓵𝓮𝓬𝓽𝓜𝓭𒆜" //ur sticker watermark author
+global.wm = "Butuh siapa?Dian,dia orangnya baik dan ramah,mau nomor Wanya? 621536907492𒆜" //ur watermark
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur thumb pic
@@ -137,7 +137,7 @@ By using this bot, you agree to the following Terms and Conditions:
  • Permanent Block
  • Warnings
  Best regard, *${ownername}*.`)
-global.premium = ['6281338302495'] //ur premium numbers
+global.premium = ['6281536907492'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -180,7 +180,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
+    free: 50,
     monayawal: 1000
 }
    global.rpg = {
